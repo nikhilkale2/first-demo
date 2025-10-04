@@ -1,0 +1,27 @@
+.div-1 {
+  margin: 150px;
+  border: 2px solid black;
+  width: 350px;
+  height: 110px;
+  border-radius: 80px;
+  padding: 20px 10px;
+  position: relative;
+}
+
+.div-2 {
+  width: 130px;
+  height: 130px;
+  border: 2px solid black;
+  background-color: black;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 8px;
+}
+
+.div-2 span {
+  position: absolute;
+  top: 50px;
+  left: 40px;
+  color: white;
+  font-size: 20px;
+}
